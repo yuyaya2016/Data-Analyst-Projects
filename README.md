@@ -1,2 +1,3 @@
-# Data-Analyst-Projects
-Data Analyst Projects of Udacity Nanodegree Degree 
+# Simpson's-Paradox-Projects
+Simpson's Paradox Projects
+Data: School Admission Data
